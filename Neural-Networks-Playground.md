@@ -1,3 +1,7 @@
+# Step 0. Setup
+Right-click to open [Neural Networks Playground Website in a separate window](https://playground.tensorflow.org/).
+Place the windows side-by-side to continue with the instructions.
+
 # Step 1. Select dataset
 1. Upper-right corner: Make sure that the `Problem Type` is set to `Classification`.
 2. Leftmost column: Under `DATA`, select any one of the four datasets:
@@ -12,6 +16,14 @@
    - X<sub>1</sub> acts like x, the horizontal axis.
    - X<sub>2</sub> acts like y, the vertical axis.
    - X<sub>1</sub><sup>2</sup> acts like x<sup>2</sup>.
+   - X<sub>1<sub>X<sub>2</sub> acts like x y.
+   - `sin`(X<sub>1<sub>) acts like `sin(x)`.
+   - `sin`(X<sub>2<sub>) acts like `sin(y)`.
+
+# Step 3. Create Neural Network Architecture
+1. Click on `+ - HIDDEN LAYERS` (top center) to set up the number of hidden layers.
+2. Click on `+ - neurons` above each layer to set up the number of neurons in each layer.
+3. Click on `Activation` to select how to process the output.
 
 # Basic terms
 1. DATA = 2-dimensional points.
@@ -20,9 +32,6 @@
 5. OUTPUT = COLOR overlaid over training and testing data.
 6. Noise is a random change to the DATA. Note that it changes both training and testing datasets.
 
-# Setup
-Right-click to open [Neural Networks Playground Website in a separate window](https://playground.tensorflow.org/).
-Place the windows side-by-side to continue with the instructions.
 
 # Basic Training
 1. Hit the reset button (arrow turning back left) or reload the website.
