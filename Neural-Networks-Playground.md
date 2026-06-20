@@ -1,3 +1,7 @@
+# Datasets
+1. Upper-right corner: Make sure that the Problem Type is set to Classification.
+2. Leftmost column: Under DATA, select 
+
 # Basic terms
 1. DATA = 2-dimensional points.
 3. INPUTS = FEATURES = One-dimensional X1 and X2. Others are two-dimensional.
