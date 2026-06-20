@@ -40,5 +40,22 @@ Place the windows side-by-side to continue with the instructions.
 6. Training versus testing losses: Watch the train loss and test loss curves. What are the minimum values? What is the distance between them? You want both of them low. Overfitting: Test loss is high. Train loss is low. Reduce the network. Underfitting: High losses. Enlarge the network.
 7. Watch the output colors evolve over time. This is what the neural network is learning. What is the relationship to the plotted points?
 8. Click on "Show test data" on the lower-right. What is the relationship between the training and testing datasets? Are they representative of each other?
-9. Click and unclick on "Show test data". The correct output is presented for Noise=0. The small dots represent the training data. The large dots represent the testing data. 
+9. Click and unclick on "Show test data". The correct output is presented for Noise=0. The small dots represent the training data. The large dots represent the testing data.
+
+
+# Experiment 1: High learning rate
+1. Reset the system (upper-left corner).
+2. Select the highest possible learning rate value.
+3. Remember: the learning rate refers to how quickly the system updates its weights.
+
+## Q1. How do the learning curves (upper-right) behave?
+## Q2. Is the behavior acceptable? Explain.
+## Q3. What do you think is happening? Discuss within your group.
+
+# Experiment 2: Adjusting the learning rate
+1. Reset the system (upper-left corner).
+2. Select different learning rates as the system is training.
  
+## Q1. How do the learning curves (upper-right) behave?
+## Q2. What do you think is happening? Discuss within your group.
+## Q3. For complex datasets, the recommendation is to start with a high learning rate and then reduce it. Do you agree? Does this reflect your experience?
