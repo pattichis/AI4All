@@ -16,7 +16,7 @@ Place the windows side-by-side to continue with the instructions.
    - X<sub>1</sub> acts like x, the horizontal axis.
    - X<sub>2</sub> acts like y, the vertical axis.
    - X<sub>1</sub><sup>2</sup> acts like x<sup>2</sup>.
-   - X<sub>1<sub>X<sub>2</sub> acts like x y.
+   - X<sub>1</sub> X<sub>2</sub> acts like x y.
    - `sin`( X<sub>1</sub> ) acts like `sin(x)`.
    - `sin`( X<sub>2</sub> ) acts like `sin(y)`.
 
