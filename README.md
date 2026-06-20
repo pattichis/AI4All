@@ -2,5 +2,5 @@ The repository provides a collection of lessons for teaching AI to students who 
 
 ## Session 1. An Introduction to Neural Networks
 - [Basic training using the neural networks playground](https://github.com/pattichis/AI4All/blob/main/Neural-Networks-Playground.md) (15 minutes)
-- [Basic training using simple datasets](https://github.com/pattichis/AI4All/blob/main/learn-simple-datasets.md)
-- [Basic training using a more advanced dataset](https://github.com/pattichis/AI4All/blob/main/spirals.md)
+- [Basic training using simple datasets](https://github.com/pattichis/AI4All/blob/main/learn-simple-datasets.md) (10 minutes)
+- [Basic training using a more advanced dataset](https://github.com/pattichis/AI4All/blob/main/spirals.md) (15 minutes)
