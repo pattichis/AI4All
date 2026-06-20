@@ -8,7 +8,10 @@
 
 # Step 2. Select input features
 1. You can click to select inputs to map to different outputs.
-2. Your input features are X<sub>1</sub>.
+2. Your input features are:
+   - X<sub>1</sub> acts like x, the horizontal axis.
+   - X<sub>2</sub> acts like y, the vertical axis.
+   - X<sub>1</sub><sup>2</sup> acts like x<sup>2</sup>.
 
 # Basic terms
 1. DATA = 2-dimensional points.
