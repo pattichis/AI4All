@@ -1,6 +1,14 @@
-# Datasets
-1. Upper-right corner: Make sure that the Problem Type is set to Classification.
-2. Leftmost column: Under DATA, select 
+# Step 1. Select dataset
+1. Upper-right corner: Make sure that the `Problem Type` is set to `Classification`.
+2. Leftmost column: Under `DATA`, select any one of the four datasets:
+   - Concentric Circles: two concentric circles (upper left).
+   - Squares: four squares (upper right).
+   - Circles: two circles (lower left).
+   - Spirals: two spirals (lower right).
+
+# Step 2. Select input features
+1. You can click to select inputs to map to different outputs.
+2. Your input features are `X_1`
 
 # Basic terms
 1. DATA = 2-dimensional points.
