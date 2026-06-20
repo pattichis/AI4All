@@ -8,7 +8,7 @@
 
 # Step 2. Select input features
 1. You can click to select inputs to map to different outputs.
-2. Your input features are `X_1`
+2. Your input features are $X_1$.
 
 # Basic terms
 1. DATA = 2-dimensional points.
