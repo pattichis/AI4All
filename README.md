@@ -20,5 +20,8 @@ The repository provides a collection of lessons for teaching AI to students who 
 - [Basic training using simple datasets](https://github.com/pattichis/AI4All/blob/main/learn-simple-datasets.md) (10 minutes)
 - [Basic training using a more advanced dataset](https://github.com/pattichis/AI4All/blob/main/spirals.md) (15 minutes)
 
+# Guidelines for working with AI
+[Basic Guidelines for working with AI](https://github.com/pattichis/AI4All/blob/main/Working_with_AI.ipynb)
+
 # Session 2. An Introduction to variables, strings, and modules in Python 
 - [Session 2.1 An Introduction to variables, strings, and modules in Python](https://colab.research.google.com/github/pattichis/AI4All/blob/main/Session_2_Intro_Variables_Strings_Modules.ipynb)
