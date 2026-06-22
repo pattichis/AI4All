@@ -3,6 +3,8 @@ The repository provides a collection of lessons for teaching AI to students who 
 # Pre-questionnaire (blocked after implementation)
 [Complete pre-questionnaire form](https://forms.gle/Cy3YWEmCSwsgcCon9)
 
+# [Form collaborative learning groups](groups.md)
+
 # Session 1. An Introduction to Neural Networks
 - [An Introduction to Neural Networks](https://github.com/pattichis/AI4All/blob/main/Easy-Intro-to-NN.pdf) (60 minutes)
 - [The Neural Networks playground interface](https://github.com/pattichis/AI4All/blob/main/Neural%20Net%20Playground%20interface%20.pdf) (5 minutes)
