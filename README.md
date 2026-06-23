@@ -40,5 +40,4 @@ The repository provides a collection of lessons for teaching AI to students who 
 * [4.4. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
 * [4.5. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
 * [4.6. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
-* Formulate questions for your groups!
 * [4.7. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
