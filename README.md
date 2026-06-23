@@ -25,3 +25,9 @@ The repository provides a collection of lessons for teaching AI to students who 
 
 # Session 2. An Introduction to variables, strings, and modules in Python 
 - [Session 2.1 An Introduction to variables, strings, and modules in Python](https://colab.research.google.com/github/pattichis/AI4All/blob/main/Session_2_Intro_Variables_Strings_Modules.ipynb)
+
+# Session 3. Image Representations
+- [Binary numbers summary](https://ece46medsrv.ece.unm.edu/docs/L1S4/Card_4.1.pdf)
+- [Binary Calculator](https://ece46medsrv.ece.unm.edu/docs/L1S4/binary2.html)
+- [Lecture notes on decimals, binary numbers, and hexadecimals]()
+- [Create binary, grayscale, and color images](http://ivpcl.unm.edu/ivpclpages/Research/aolme/app/interactive-img-v2.html)
