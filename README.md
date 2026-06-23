@@ -14,7 +14,7 @@ The repository provides a collection of lessons for teaching AI to students who 
 [Form collaborative learning groups](groups.md)
 
 # Session 1. An Introduction to Neural Networks
-- [An Introduction to Neural Networks](https://github.com/pattichis/AI4All/blob/main/Easy-Intro-to-NN.pdf) (60 minutes)
+- [An Introduction to Neural Networks](https://github.com/pattichis/AI4All/blob/main/Ineq-Intro-to-NN.pdf) (60 minutes)
 - [The Neural Networks playground interface](https://github.com/pattichis/AI4All/blob/main/Neural%20Net%20Playground%20interface%20.pdf) (5 minutes)
 - [Basic training using the neural networks playground](https://github.com/pattichis/AI4All/blob/main/Neural-Networks-Playground.md) (15 minutes)
 - [Basic training using simple datasets](https://github.com/pattichis/AI4All/blob/main/learn-simple-datasets.md) (10 minutes)
@@ -29,5 +29,6 @@ The repository provides a collection of lessons for teaching AI to students who 
 # Session 3. Image Representations
 - [Binary numbers summary](https://ece46medsrv.ece.unm.edu/docs/L1S4/Card_4.1.pdf)
 - [Binary Calculator](https://ece46medsrv.ece.unm.edu/docs/L1S4/binary2.html)
-- [Lecture notes on decimals, binary numbers, and hexadecimals]()
+- [Lecture notes on decimals, binary numbers, and hexadecimals](https://github.com/pattichis/AI4All/blob/main/Binary-and-hexadecimals.pdf)
+- [Color lecture notes](https://ece46medsrv.ece.unm.edu/docs/L1S6/Card_6.1.pdf)
 - [Create binary, grayscale, and color images](http://ivpcl.unm.edu/ivpclpages/Research/aolme/app/interactive-img-v2.html)
