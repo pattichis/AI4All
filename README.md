@@ -34,7 +34,7 @@ The repository provides a collection of lessons for teaching AI to students who 
 - [Create binary, grayscale, and color images](http://ivpcl.unm.edu/ivpclpages/Research/aolme/app/interactive-img-v2.html)
 
 # Session 4. Foundations of Machine Learning and Neural Networks 
-* [4.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All-Med/blob/main/Session_2_1_MNIST_and_K_NN.ipynb)
+* [4.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
 * [4.2. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
 * [4.3. An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
 * [4.4. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
