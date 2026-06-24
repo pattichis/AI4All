@@ -33,14 +33,18 @@ The repository provides a collection of lessons for teaching AI to students who 
 - [Color lecture notes](https://ece46medsrv.ece.unm.edu/docs/L1S6/Card_6.1.pdf)
 - [Create binary, grayscale, and color images](http://ivpcl.unm.edu/ivpclpages/Research/aolme/app/interactive-img-v2.html)
 
-## Session 3. Going further with image representations
+## Session 3. Going further with image representations:
 - Refer to sessions 6, 7, and 8 of the [AIML repo](https://github.com/pattichis/AIML) for much more on images and videos.
 
 # Session 4. Foundations of Machine Learning and Neural Networks 
-* [4.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
-* [4.2. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
-* [4.3. An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
-* [4.4. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
-* [4.5. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
-* [4.6. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
-* [4.7. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
+* [4.1. Using for loops and functions in Python](https://github.com/pattichis/AI4All/blob/main/Session_4_0_Loops_and_functions.ipynb)
+* [4.2. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
+* [4.3. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
+* [4.4. An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
+* [4.5. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
+* [4.6. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
+* [4.7. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
+* [4.8. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
+
+## Session 4. Going further with loops, conditionals, and functions
+- Refer to sessions 3 and 9.2 in [AIML repo](https://github.com/pattichis/AIML).
