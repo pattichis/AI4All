@@ -36,12 +36,13 @@ The repository provides a collection of lessons for teaching AI to students who 
 ## Session 3. Going further with image representations:
 - Refer to sessions 6, 7, and 8 of the [AIML repo](https://github.com/pattichis/AIML) for much more on images and videos.
 
-# Session 4. For loops, conditionals, and functions in Python
+# Session 4. For loops, conditionals, functions, and classes in Python
 * [4.1. Using for loops and conditionals in the number guessing program](https://github.com/pattichis/AIML/blob/main/Session_3_1_Loops_conditionals_sequential_thinking.ipynb)
 * [4.2. Basic functions in Python](https://github.com/pattichis/AI4All/blob/main/Session_4_0_Loops_and_functions.ipynb)
+* [4.3. Basic classes in Python](https://colab.research.google.com/github/pattichis/AIML/blob/main/Session_9_3_oop_with_classes.ipynb)
 
 ## Session 4. Going further with functions and other data structures in Python
-- Refer to session 9.2 for functions and the rest of session 9 in [AIML repo](https://github.com/pattichis/AIML).
+- Refer to [session 9.2 from AIML repo](https://github.com/pattichis/AIML/blob/main/Session_9_2_functions.ipynb) for more material on functions.
 
 # Session 5. Foundations of Machine Learning and Neural Networks 
 * [5.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
