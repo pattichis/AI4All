@@ -41,7 +41,7 @@ The repository provides a collection of lessons for teaching AI to students who 
 * [4.2. Basic functions in Python](https://github.com/pattichis/AI4All/blob/main/Session_4_0_Loops_and_functions.ipynb)
 
 ## Session 4. Going further with functions and other data structures in Python
-- Refer to session 9.2 for functions and the rest of the sessions in [AIML repo](https://github.com/pattichis/AIML).
+- Refer to session 9.2 for functions and the rest of session 9 in [AIML repo](https://github.com/pattichis/AIML).
 
 # Session 5. Foundations of Machine Learning and Neural Networks 
 * [5.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
