@@ -33,6 +33,9 @@ The repository provides a collection of lessons for teaching AI to students who 
 - [Color lecture notes](https://ece46medsrv.ece.unm.edu/docs/L1S6/Card_6.1.pdf)
 - [Create binary, grayscale, and color images](http://ivpcl.unm.edu/ivpclpages/Research/aolme/app/interactive-img-v2.html)
 
+## Session 3. Going further with image representations
+- Refer to sessions 6, 7, and 8 of the [AIML repo](https://github.com/pattichis/AIML) for much more on images and videos.
+
 # Session 4. Foundations of Machine Learning and Neural Networks 
 * [4.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
 * [4.2. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
