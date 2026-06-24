@@ -36,15 +36,19 @@ The repository provides a collection of lessons for teaching AI to students who 
 ## Session 3. Going further with image representations:
 - Refer to sessions 6, 7, and 8 of the [AIML repo](https://github.com/pattichis/AIML) for much more on images and videos.
 
-# Session 4. Foundations of Machine Learning and Neural Networks 
-* [4.1. Using for loops and functions in Python](https://github.com/pattichis/AI4All/blob/main/Session_4_0_Loops_and_functions.ipynb)
-* [4.2. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
-* [4.3. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
-* [4.4. An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
-* [4.5. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
-* [4.6. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
-* [4.7. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
-* [4.8. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
+# Session 4. For loops, conditionals, and functions in Python
+* [4.1. Using for loops and conditionals in the number guessing program](https://github.com/pattichis/AIML/blob/main/Session_3_1_Loops_conditionals_sequential_thinking.ipynb)
+* [4.2. Basic functions in Python](https://github.com/pattichis/AI4All/blob/main/Session_4_0_Loops_and_functions.ipynb)
 
-## Session 4. Going further with loops, conditionals, and functions
-- Refer to sessions 3 and 9.2 in [AIML repo](https://github.com/pattichis/AIML).
+## Session 4. Going further with functions and other data structures in Python
+- Refer to session 9.2 for functions and the rest of the sessions in [AIML repo](https://github.com/pattichis/AIML).
+
+# Session 5. Foundations of Machine Learning and Neural Networks 
+* [5.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
+* [5.2. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
+* [5.3. An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
+* [5.4. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
+* [5.5. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
+* [5.6. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
+* [5.7. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
+
