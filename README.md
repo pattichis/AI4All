@@ -52,5 +52,14 @@ The repository provides a collection of lessons for teaching AI to students who 
 * [5.4. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
 * [5.5. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
 * [5.6. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
-* [5.7. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
+* [5.7. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (60 minutes)
+
+# Session 6. Autoencoders and Diffusion Models
+*
+*
+
+
+# Post-questionnaire (blocked after implementation)
+[Complete post-questionnaire form](https://forms.gle/oVJ3D9G8R4bwhfkC9).
+
 
