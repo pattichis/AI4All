@@ -45,6 +45,7 @@ The repository provides a collection of lessons for teaching AI to students who 
 - Refer to [session 9.2 from AIML repo](https://github.com/pattichis/AIML/blob/main/Session_9_2_functions.ipynb) for more material on functions.
 
 # Session 5. Foundations of Machine Learning and Neural Networks 
+* [5.0. An overview of the process of building an AI system](https://github.com/pattichis/AI4All/blob/main/AI4All-processes.pdf)
 * [5.1. An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All/blob/main/Session_4_1_MNIST_and_K_NN.ipynb)
 * [5.2. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
 * [5.3. An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
