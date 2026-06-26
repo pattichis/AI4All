@@ -54,9 +54,12 @@ The repository provides a collection of lessons for teaching AI to students who 
 * [5.6. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
 * [5.7. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (60 minutes)
 
-# Session 6. Autoencoders and Diffusion Models
-*
-*
+# Session 6. Diffusion models using auto-encoders
+* [6.0. An overview of diffusion models](https://github.com/pattichis/AI4All/blob/main/AI4All-autoencoders-diffusion.pdf)
+* [6.1. Diffusion models](https://github.com/pattichis/AI4All/blob/main/Diffusion_models.ipynb)
+
+## Appendix: You can also access auto-encoder material using the link below:
+* [Auto-encoder material](https://github.com/pattichis/AI4All/blob/main/Autoencoders.ipynb)
 
 
 # Post-questionnaire (blocked after implementation)
