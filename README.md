@@ -65,4 +65,11 @@ The repository provides a collection of lessons for teaching AI to students who 
 # Post-questionnaire (blocked after implementation)
 [Complete post-questionnaire form](https://forms.gle/oVJ3D9G8R4bwhfkC9).
 
+# Additional information
+* [If you need to work through Python syntax without any additional guides, try the w3schools](https://www.w3schools.com/python/)
+* [If you need a more guided approach to the current tutorials, refer to the AIML repo. Use the built-in chatbot for questions.](https://github.com/pattichis/AIML)
+* [If you need to see LLMs and chatbots in Medicine, see my related tutorials in AI for all in medicine](https://github.com/pattichis/AI4All-Med)
+* [If you want to see more advanced tutorials beyond Session 6, I recommend the GitHub by Geron](https://github.com/ageron/handson-mlp)
+* [If you want to see some graduate school-level projects, refer to my UNM website](https://github.com/pattichis/projects/blob/main/sample-projects.md)
+
 
